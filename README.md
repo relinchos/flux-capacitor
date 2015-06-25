@@ -1,4 +1,5 @@
-# flux-capacitor
+![Flux-capacitor Logo](http://relinchos.com/app/assets/img/brand_logo/flux_capacitor.svg)
+
 
 
  Flux-capacitor is a time saver. It is an scaffolding for webapps that contains a client side admin app made in AngularJS and a server side app made in Strongloop's Loopback framework (express + nodeJS). 
