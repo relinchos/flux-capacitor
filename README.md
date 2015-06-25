@@ -40,5 +40,5 @@ We are trying to bring together a team of collaborators and make an schedule to 
  - Tidying up the form automatization tool.
  - Analize File storage strategies.
  - Some improvements to the loopback framework itself.
- - To finish and connect some cool front-end directives that are sitting there but half baked :(
+ - Finish and connect some cool front-end directives we've made and that are sitting there but half baked :(
  
