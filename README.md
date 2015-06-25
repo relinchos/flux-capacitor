@@ -36,6 +36,7 @@ We are trying to bring together a team of collaborators and make an schedule to 
  Some goals we will be persuing then are:
  
  - Creating a YEOMAN GENERATOR CLI for both apps that wraps and group the different clis form the different compoennets used under a common set of commands.
+ - Start documentation!
  - Tidying up the form automatization tool.
  - Analize File storage strategies.
  - Some improvements to the loopback framework itself.
