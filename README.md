@@ -20,7 +20,6 @@ This is administrative app for managing users, roles, data models, etc.
 Github Repo:
 - https://github.com/relinchos/flux-capacitor-adminapp
 
-> **Be patience:** Please notice that both demo apps, client and server side, are hosted in free heroku tiers so if you enter it will take a little time to start the dynos. Furthermore, the mongodb connected to the backend is hosted in a free sandbox at compose.io which is is horrible slow too. 
 
 ###The serverApp
 
@@ -30,6 +29,9 @@ Github Repo:
 
 Demo at heroku:
 - https://flux-capacitor-adminapp.herokuapp.com/
+
+
+> **Be patience:** Please notice that both demo apps, client and server side, are hosted in free heroku tiers so if you enter it will take a little time to start the dynos. Furthermore, the mongodb connected to the backend is hosted in a free sandbox at compose.io which is is horrible slow too. 
 
 
 ## GOALS
