@@ -27,7 +27,7 @@ Github Repo:
 - https://github.com/relinchos/flux-capacitor-serverapp
 
 
-Demo at heroku:
+**Demo at heroku:**
 - https://flux-capacitor-adminapp.herokuapp.com/
 
 
