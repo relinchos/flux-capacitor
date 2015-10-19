@@ -1,4 +1,4 @@
-![Flux-capacitor Logo](http://relinchos.com/app/assets/img/brand_logo/flux_capacitor.svg)
+![Flux-capacitor Logo](http://relinchos.com/img/client/flux_capacitor.svg)
 
 
 
